@@ -7,7 +7,7 @@ cloudbees-slack-integration:
       jenkins: "raafattahar"
       optedIn: true
       scmId: "raafattahar"
-      slack: "REPLACE_USER_EMAIL"
+      slack: "raafat.tahar.elaroui@dzbank.de"
       slackWorkspace: "T010A455W77"
 cloudbees-pipeline-policies:
   config:
